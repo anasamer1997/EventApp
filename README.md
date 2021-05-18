@@ -1,5 +1,4 @@
 # EventApp
-
 EventApp using this technologies:
 1- Alamofire.
 2- FireBase.
